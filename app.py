@@ -66,10 +66,10 @@ def main():
 				st.dataframe(new_df)
 
 	if choice == 'About':
-		st.subheader("About:Sentiment Analysis Emoji App")
-		st.info("Built with Streamlit,Textblob and Emoji")
-		st.text("Jesse E.Agbe(JCharis")
-		st.text("Jesus Saves@JCharisTech")
+		st.subheader("About:Sentiment Analyser By : ungraduate_coders")
+		st.info("Developed using Streamlit,Textblob and Emoji")
+		st.text(" Kunjesh Yadav")
+		
 
 
 
